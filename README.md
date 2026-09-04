@@ -45,6 +45,7 @@
 #### Подготовка файла rebase.sh  
 
 ![rebase1](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_4_1.png)
+
 ![rebase2](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_4_2.png)
 
 ---
