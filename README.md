@@ -80,3 +80,9 @@
 
 ---
 
+#### Full graf
+
+![full_graf](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_9.png)
+
+---
+
