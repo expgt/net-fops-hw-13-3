@@ -32,29 +32,29 @@
 
 #### Подготовка файла merge.sh 
  
-![merge](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_2.png)
+![merge_file](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_2.png)
 
 ---
 
 #### Измение main  
 
-![main](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_3.png)
+![main_change](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_3.png)
 
 ---
 
 #### Подготовка файла rebase.sh  
 
-![rebase1](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_4_1.png)
+![rebase_file1](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_4_1.png)
 
-![rebase2](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_4_2.png)
+![rebase_file2](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_4_2.png)
 
 ---
 
 #### Промежуточный итог  
 
-![network_graph1](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_5.png)
+![network_graph](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_5.png)
 
-[network_graph2](https://github.com/expgt/net-fops-hw-13-3/network)
+[Link_network_graph](https://github.com/expgt/net-fops-hw-13-3/network)
 
 ---
 
@@ -68,13 +68,15 @@
 
 #### Rebase
 
-![rebase_main](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_7.png)
+![rebase_main](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_7_1.png)
+
+![rebase_graf](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_7_2.png)
 
 ---
 
 #### Push force
 
-![push_force](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_8.png)
+![push_force_git-rebase](https://github.com/expgt/net-fops-hw-13-3/blob/main/13_3_8.png)
 
 ---
 
